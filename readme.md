@@ -18,8 +18,6 @@ A responsive web application designed to facilitate donations, track donor activ
 - Database: (optional for extension) MySQL  
 - Hosting: Compatible with shared hosting or cloud VPS  
 
-## 📁 Structure
-
 ## 📁 Project Structure
 
 ```plaintext
