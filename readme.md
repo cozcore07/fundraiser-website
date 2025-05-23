@@ -28,6 +28,7 @@ project/
 ├── subscribe.php           → Handles newsletter subscriptions
 ├── donors.txt              → Log file for donations
 ├── subscribers.txt         → Log file for email list
+```
 
 
 
