@@ -20,19 +20,17 @@ A responsive web application designed to facilitate donations, track donor activ
 
 ## 📁 Structure
 
+## 📁 Project Structure
+
+```plaintext
 project/
+├── index.html              → Main UI
+├── style.css               → Stylesheet
+├── process_donation.php    → Handles donation submissions
+├── subscribe.php           → Handles newsletter subscriptions
+├── donors.txt              → Log file for donations
+├── subscribers.txt         → Log file for email list
 
-├── index.html # Main UI
-
-├── style.css # Stylesheet
-
-├── process_donation.php # Handles donation submissions
-
-├── subscribe.php # Handles newsletter subscriptions
-
-├── donors.txt # Log file for donations
-
-├── subscribers.txt # Log file for email list
 
 
 ## 🛠 Setup Instructions
