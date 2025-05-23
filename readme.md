@@ -48,7 +48,6 @@ project/
 
 For queries or customization requests, please contact:
 
-- [Your Name] at [your-email@example.com]  
 - 📧 Cozcore Technology — info@cozcore.com  
 - 🌐 Website: [www.cozcore.com](http://www.cozcore.com)
 
